@@ -42,6 +42,3 @@ while counter < cart.length
 end
 new_cart
 end
-
-
-  
